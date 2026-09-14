@@ -1,0 +1,9 @@
+{
+  "name": "A Greener Jordan",
+  "short_name": "Greener Jordan",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbfaf3",
+  "theme_color": "#0b6b45",
+  "description": "A volunteer-led environmental initiative for a greener, cleaner Jordan."
+}
